@@ -1,0 +1,22 @@
+.line
+{
+    background-color: black;
+    height: 5px;
+    width:200px;
+    margin: auto;
+}
+img:hover
+{
+    height:250px;
+    width:250px;
+}
+img
+{
+    border:3px magenta ridge;
+     margin-top:30px;
+}
+#mycarousel
+{
+    background-color: aqua;
+    
+}
